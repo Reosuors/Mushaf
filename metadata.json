@@ -1,0 +1,6 @@
+{
+  "name": "مصحف",
+  "description": "تطبيق إسلامي متكامل يحتوي على القرآن الكريم، أوقات الصلاة، الأذكار، عداد التسبيح، أسماء الله الحسنى، وتكرار الآيات والسور للحفظ وثيمات عصرية متميزة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
